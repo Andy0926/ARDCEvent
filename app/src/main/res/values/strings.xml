@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ARDC Challenge</string>
+
+    <string name="ddR1">1) Electronics, propellers and materials for    drone building will be provided.</string>
+    <string name="ddR2">2) Marker pens are allowed for decoration.</string>
+    <string name="ddR3">3) Teams can fabricate their frames using only the materials provided by A.R.D.C, Teams has the choice to use any pre-installed 3D drawing software for drone design on their personal laptop.</string>
+    <string name="ddR4">4) All drone will have a dimensional limit of 120mm x 120mm. No restraint on the height.</string>
+    <string name="ddR5">5) Approach respective team supervisor for more detailed information.</string>
+
+    <string name="drR1">1) All airframe must pass a safety and airworthiness inspection. Once the airframe has been checked and approved, it must not be modified or changed. </string>
+    <string name="drR2">2) Airframes should be repaired with equivalent parts that were originally used during check-in. </string>
+    <string name="drR3">3) The inspector has the final decision on whether an airframe is accepted and/or requires changes or modifications to be approved for racing.</string>
+    <string name="drR4">4) Pilots must adhere to all rules within competition venue and will not fly in any other part of the venue unless it is a designated flight zone.</string>
+    <string name="drR5">5) Pilots must adhere to the prescribed launch sequence. No movement before the starting signal. False start will incur a PENALTY.</string>
+    <string name="drR6">6) Once pilots have successfully completed all laps, they must return to the start/finish pad, land and disarm. Pilots must give the Pilot Line Director a “Thumbs Up” that they have completed their flight. </string>
+
+    <string name="jmR1">1) All races will be governed by an appointed team of judges. </string>
+    <string name="jmR2">2) In the event of a mid-air collision, pilots can resume the race if they are able to take off again without intervention, otherwise considered “Did Not Finish”.</string>
+    <string name="jmR3">3) Judges and organizing committees have the right to overwrite the rules and regulation under certain circumstances. Decisions made are final and non-negotiable. </string>
+
+    <string name="dR1">1) Trespassing opposite gender’s dormitory is strictly prohibited.</string>
+    <string name="dR2">2) Participants are not allowed to strolling outside school compound after dinner time.</string>
+</resources>
